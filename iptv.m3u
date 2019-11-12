@@ -159,7 +159,7 @@ http://39.135.36.146:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ys
 #EXTINF:-1 group-title="卫视台",西藏卫视
 http://39.135.36.141:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
 
-#EXTINF:-1 group-title="中国香港",香港卫视（公众号：CUIUC）
+#EXTINF:-1 group-title="中国香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="中国香港",TVB无线新闻
 http://r05.wscdn.hls.xiaoka.tv/live/aa1c18668bcba1be6d2de43aaa6d1/playlist.m3u8
