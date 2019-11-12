@@ -421,8 +421,6 @@ http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
 
 #EXTINF:-1 group-title="虎牙电影",电视-少帅
 https://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电影",电视-火影
-http://ws.streamhls.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影",电影-周星驰
 https://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",电影-李连杰
@@ -574,6 +572,10 @@ http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ys
 #EXTINF:-1 group-title="NewTV",NewTV炫舞未来
 http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
 
+#EXTINF:-1 group-title="地方台",泉州综合
+http://live.qztvxwgj.com/live/news.m3u8
+#EXTINF:-1 group-title="地方台",泉州闽南语
+http://live.qztvxwgj.com/live/mny.m3u8
 #EXTINF:-1 group-title="地方台",广东影视
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",广东新闻
@@ -680,10 +682,6 @@ http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
 http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
 #EXTINF:-1 group-title="地方台",厦门四套
 http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
-#EXTINF:-1 group-title="地方台",泉州综合
-http://live.qztvxwgj.com/live/news.m3u8
-#EXTINF:-1 group-title="地方台",泉州闽南语
-http://live.qztvxwgj.com/live/mny.m3u8
 #EXTINF:-1 group-title="地方台",福州综合
 http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
 #EXTINF:-1 group-title="地方台",福州影视
@@ -1697,25 +1695,35 @@ http://liveplay.lztvnet.com/live/31750_e1bbfc0b68b311e992905cb9018cf0d4.m3u8
 #EXTINF:-1 group-title="地方台",CGTV
 http://39.135.36.140:18890/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8428799834696888424&owchid=ystenlive&owsid=1106497909461789280&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7RqKDfJDas7YyDZNJl7HttN1saAiHHRx97PWslNR2vzkU1dWcTZfUtlvjMMZgBZvORGIuGa%2b7fRg7bV0%2fSlWh1
 
-#EXTINF:-1 group-title="少儿卡通",金鹰纪实
+#EXTINF:-1 group-title="卡通动漫",火影忍者
+http://ws.streamhls.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="卡通动漫",犬夜叉
+http://ws4.streamhls.huya.com/backsrc/29359996-2689639786-11551914918890438656-2847687572-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="卡通动漫",海绵宝宝
+http://ws4.streamhls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="卡通动漫",动画电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+#EXTINF:-1 group-title="卡通动漫",全职猎人
+http://aldirect.hls.huya.com/huyalive/30765679-2533158964-10879834905949241344-2847687638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="卡通动漫",金鹰纪实
 http://39.135.36.158:18890/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011724&owchid=ystenlive&owsid=1106497909461431848&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhGRixuNJLUNu2DBYpc6QsaE3%2flx5n8V0jfiNYU%2fTgbW1jSw07dYEaQMRlC6v1JMQu
-#EXTINF:-1 group-title="少儿卡通",金鹰卡通
+#EXTINF:-1 group-title="卡通动漫",金鹰卡通
 http://39.135.36.143:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000016601&owchid=ystenlive&owsid=1106497909461440110&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh3lvQbkJR7yvxA1RDMtL0LOgZJUasCVca4o22xp7Fqo70%2bkmwxtIe5WPGbFPdTEWf
-#EXTINF:-1 group-title="少儿卡通",嘉佳卡通
+#EXTINF:-1 group-title="卡通动漫",嘉佳卡通
 http://39.135.36.158:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000025964&owchid=ystenlive&owsid=1106497909461445399&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhTdKQ4wsazi%2bjWctAkM%2b3AyHZX%2bK23G5GXJY0zYdFr53ZLGcc%2fpaa0eBryrKOGOCn
-#EXTINF:-1 group-title="少儿卡通",哈哈炫动
+#EXTINF:-1 group-title="卡通动漫",哈哈炫动
 http://39.135.36.141:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000000172&owchid=ystenlive&owsid=1106497909461453987&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhWcrsHswwWp2dWLb8s5W8TNE0OJVYRjGF0bAUDhLlZ%2fS%2buYp9XTsbJzJ2IhAUAbXB
-#EXTINF:-1 group-title="少儿卡通",卡酷少儿
+#EXTINF:-1 group-title="卡通动漫",卡酷少儿
 http://39.135.36.158:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7589856436881630561&owchid=ystenlive&owsid=1106497909461461523&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6w5tj6QNQmxgPk9QJsy7%2fzSWjcIgWGBaWYpmGQ1JTlRh0%2b1GDs%2b%2fmAEmuKcn81VSv8Jmm8qRlsJnY7A7xx1NX%2b
-#EXTINF:-1 group-title="少儿卡通",优漫卡通
+#EXTINF:-1 group-title="卡通动漫",优漫卡通
 http://39.135.36.157:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000010063&owchid=ystenlive&owsid=1106497909461609150&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhtaBjjE4TN9WTWZSJCyB7q9lx71XBn28Da%2bdFI9LQTRkZjhTxMpgayQKIC2eH%2bMbL
-#EXTINF:-1 group-title="少儿卡通",CETV1
+#EXTINF:-1 group-title="卡通动漫",CETV1
 http://39.135.36.146:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000027253&owchid=ystenlive&owsid=1106497909461616097&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhOJwKbFFUvff7rym6ZRGjqhoGIqpkmAjf48GP9I33YEiXzrp2cuKEymd6COk8Pa3q
-#EXTINF:-1 group-title="少儿卡通",山东教育
+#EXTINF:-1 group-title="卡通动漫",山东教育
 http://39.135.36.153:18890/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000004097&owchid=ystenlive&owsid=1106497909461623363&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQh378KcG4gga4vRnyBidEMtSo4pdNiVnB7cAOBwj3CyvL3T5WhKfQVwdHIJjtMT4
-#EXTINF:-1 group-title="少儿卡通",黑莓电影
+#EXTINF:-1 group-title="卡通动漫",黑莓电影
 http://39.135.36.141:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=1106497909461631220&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6jEmjAMUGy0nIP6jSu%2f7L4kcrIRnbleOKJQFIG34oz%2fEDJYj1%2f6O12Q90SehwN9wSgbQeB4w7iizkqjoW2e%2b8f
-#EXTINF:-1 group-title="少儿卡通",黑莓动画
+#EXTINF:-1 group-title="卡通动漫",黑莓动画
 http://39.135.36.141:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=1106497909461636297&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7yuzV0ONj3jLJ3hwVkzsTuqbBS2aSqqFpaY6XZKMHRlKo8mmc3pY99jwkF3YYIQ9U6aewUh4Nwm0T2s2uo6zdq
 
 #EXTINF:-1 group-title="MYHD",香港台
