@@ -421,6 +421,8 @@ http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
 
 #EXTINF:-1 group-title="虎牙电影",电视-少帅
 https://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙电影",电视-火影
+http://ws.streamhls.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影",电影-周星驰
 https://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影",电影-李连杰
